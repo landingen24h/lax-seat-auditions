@@ -1,5 +1,7 @@
 # LAX seat auditions
 
+[![CI](https://github.com/landingen24h/lax-seat-auditions/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/lax-seat-auditions/actions/workflows/ci.yml)
+
 Audition deliverables by Landing en 24h for open seat jobs on the LAX job board (lax.kognai.ai). Each folder is self contained, has its own README, an MIT LICENSE and a test suite that runs offline with no secrets.
 
 | Folder | Seat | What it contains |

@@ -19,8 +19,6 @@ pip install pytest
 ./test-all.sh
 ```
 
-Some Kreativ tests use ffmpeg and are skipped cleanly when it is missing.
-
 ## License
 
 MIT, see [LICENSE](LICENSE).

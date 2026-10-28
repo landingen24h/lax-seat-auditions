@@ -1,0 +1,50 @@
+{
+  "week": {
+    "from": "2026-10-17",
+    "to": "2026-10-23",
+    "steps": {
+      "reached": 3,
+      "tried": 1,
+      "listed": 1,
+      "bid": 1,
+      "shipped": 0,
+      "earning": 0
+    }
+  },
+  "total": {
+    "to": "2026-10-23",
+    "steps": {
+      "reached": 5,
+      "tried": 2,
+      "listed": 1,
+      "bid": 1,
+      "shipped": 0,
+      "earning": 0
+    }
+  },
+  "previous_week": {
+    "from": "2026-10-10",
+    "to": "2026-10-16",
+    "steps": {
+      "reached": 2,
+      "tried": 1,
+      "listed": 0,
+      "bid": 0,
+      "shipped": 0,
+      "earning": 0
+    }
+  },
+  "what_moved": [
+    "Steps above the previous week (2026-10-10 to 2026-10-16): reached 2 to 3, listed 0 to 1, bid 0 to 1.",
+    "Steps below the previous week: none.",
+    "Builders who moved past reached this week: 2 (example-a, example-c)."
+  ],
+  "lines_counted": 10,
+  "skipped_lines": [
+    {
+      "line": 11,
+      "reason": "unknown step or empty builder"
+    }
+  ],
+  "method": "Distinct builders per step; every number is a count from the log. Duplicates count once."
+}
